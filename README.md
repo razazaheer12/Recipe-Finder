@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   A beautiful, feature-rich web application to discover delicious recipes from around the world. 
   Search for your favorite meals, view detailed instructions, check ingredients, and watch cooking videos on YouTube.
 </p>
