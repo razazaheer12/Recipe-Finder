@@ -1,4 +1,10 @@
-<h1>🍽️ Recipe Finder</h1>
+
+<h1 align="center">🍽️ Recipe Finder</h1>
+
+<p align="center">
+  A beautiful, feature-rich web application to discover delicious recipes from around the world. 
+  Search for your favorite meals, view detailed instructions, check ingredients, and watch cooking videos on YouTube.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -14,13 +20,14 @@
   </a>
 </p>
 
-<p>
-  A beautiful, feature-rich web application to discover delicious recipes from around the world. 
-  Search for your favorite meals, view detailed instructions, check ingredients, and watch cooking videos on YouTube.
-</p>
-
 ---
 
+## 📸 Preview
+
+<img width="946" height="423" alt="image" src="https://github.com/user-attachments/assets/eeb642a9-fbd2-415b-a363-899522d974c0" />
+ > **Live URL:** [https://recipe-finder-12.netlify.app/](https://recipe-finder-12.netlify.app/)
+
+---
 ## ✨ Features
 
 - 🔍 **Smart Search** — Search meals by name or keyword
