@@ -25,7 +25,7 @@
 ## 📸 Preview
 
 <img width="946" height="423" alt="image" src="https://github.com/user-attachments/assets/eeb642a9-fbd2-415b-a363-899522d974c0" />
- > **Live URL:** [https://recipe-finder-12.netlify.app/](https://recipe-finder-12.netlify.app/)
+Live URL: https://recipe-finder-12.netlify.app/](https://recipe-finder-12.netlify.app/
 
 ---
 ## ✨ Features
